@@ -1,5 +1,5 @@
 # Olá! Eu sou o Paulo Becker, estudante de programação.
-##
+
 * 🌎 _Juntos, vamos fazer a diferença no mundo._
 * 🌱 Atualmente estou aprendendo Desenvolvimento Web, **Front-End**. Ou seja, **HTML5**, **CSS3**, **JAVASCRIPT**.
 
