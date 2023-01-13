@@ -1,9 +1,7 @@
-Olá! Eu sou o Paulo Becker
-
+# Olá! Eu sou o Paulo Becker, estudante de programação.
+##
 * 🌎 _Juntos, vamos fazer a diferença no mundo._
 * 🌱 Atualmente estou aprendendo Desenvolvimento Web, **Front-End**. Ou seja, **HTML5**, **CSS3**, **JAVASCRIPT**.
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
